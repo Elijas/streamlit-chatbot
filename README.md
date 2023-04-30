@@ -39,7 +39,5 @@ This repository contains an example of a chatbot implementation using Streamlit,
    ```
 
 2. Open the provided URL in your web browser.
-
 3. Start interacting with the chatbot by typing your queries in the text box and pressing Enter.
-
 4. To reset the conversation, simply refresh the page.

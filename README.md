@@ -2,7 +2,7 @@
 
 This repository contains an example of a chatbot implementation using Streamlit, a powerful open-source app framework for Machine Learning and Data Science projects. The chatbot provides a user-friendly interface with a text box field for users to input their queries and receive responses from the chatbot.
 
-![Demonstration](docs/demo.png)
+![Demonstration](docs/screenshot.png)
 
 ## Features
 
